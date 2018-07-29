@@ -1,0 +1,7 @@
+/Users/sawahel/Documents/Software Projects/ConsoleTrialProject/ConsoleTrialProject/bin/Debug/ConsoleTrialProject.exe
+/Users/sawahel/Documents/Software Projects/ConsoleTrialProject/ConsoleTrialProject/bin/Debug/ConsoleTrialProject.pdb
+/Users/sawahel/Documents/Software Projects/ConsoleTrialProject/ConsoleTrialProject/bin/Debug/CsvHelper.dll
+/Users/sawahel/Documents/Software Projects/ConsoleTrialProject/ConsoleTrialProject/bin/Debug/CsvHelper.xml
+/Users/sawahel/Documents/Software Projects/ConsoleTrialProject/ConsoleTrialProject/obj/x86/Debug/ConsoleTrialProject.csproj.CoreCompileInputs.cache
+/Users/sawahel/Documents/Software Projects/ConsoleTrialProject/ConsoleTrialProject/obj/x86/Debug/ConsoleTrialProject.exe
+/Users/sawahel/Documents/Software Projects/ConsoleTrialProject/ConsoleTrialProject/obj/x86/Debug/ConsoleTrialProject.pdb
